@@ -9,7 +9,7 @@ This repository contains a Java backend for hands-on practice.
 ## Setup
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/deepjyotk/all-about-backend](https://github.com/deepjyotk/all-about-backend)
+   git clone [https://github.com/deepjyotk/all-about-backend](url)
    cd src/main
    ```
 2. **Build and Run:**
